@@ -31,6 +31,7 @@ python main.py
 
 3. Output
 The script will measure the ping to a public DNS server and display the result, for example:
-"your ping is 37.4ms"
+"your ping is 37.4 ms"
+
 
 

@@ -10,10 +10,10 @@ This project was created for learning purposes, focusing on:
 - Basic API usage
 - Unit conversion (seconds → milliseconds)
 
-Planned improvements
-Graphical User Interface (GUI)
-Export as executable (.exe)
-Destination selection (custom ping target)
+## Planned improvements
+- Graphical User Interface (GUI)
+- Export as executable (.exe)
+- Destination selection (custom ping target)
 
 ## How to use
 
@@ -32,4 +32,5 @@ python main.py
 3. Output
 The script will measure the ping to a public DNS server and display the result, for example:
 "your ping is 37.4ms"
+
 

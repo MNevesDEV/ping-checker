@@ -21,14 +21,15 @@ Destination selection (custom ping target)
 
 
 
-### 1. Install dependencies
+1. Install dependencies
 Make sure you have Python 3.x installed, then run:
 pip install ping3
 
-### 2. Run the script
+2. Run the script
 From the project directory, execute:
 python main.py
 
-### 3. Output
+3. Output
 The script will measure the ping to a public DNS server and display the result, for example:
 "your ping is 37.4ms"
+

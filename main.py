@@ -1,10 +1,10 @@
 from ping3 import ping
 
-def ms():
-    result = ping('8.8.8.8')
-    vlr = result * 1000
 
-    return round(vlr, 2)
+def get_ping_ms():
+    result = ping("8.8.8.8")
+    latency_ms = result * 1000
+    return round(latency_ms, 2)
 
 
-print("your ping is", ms(),"ms")
+print("Your ping is", get_ping_ms(), "ms")
